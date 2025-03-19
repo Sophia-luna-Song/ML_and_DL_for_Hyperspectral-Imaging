@@ -1,0 +1,24 @@
+
+Fold 1, Epoch 100/100, Train Loss: 0.0168, Train RMSE: 0.1145, Train R2: 0.9697, Test Loss: 0.0308, Test RMSE: 0.1756, Test R2: 0.9170
+Fold 2, Epoch 100/100, Train Loss: 0.0157, Train RMSE: 0.1082, Train R2: 0.9723, Test Loss: 0.0262, Test RMSE: 0.1620, Test R2: 0.9431
+Fold 3, Epoch 100/100, Train Loss: 0.0149, Train RMSE: 0.1101, Train R2: 0.9713, Test Loss: 0.0249, Test RMSE: 0.1577, Test R2: 0.9460
+Fold 4, Epoch 100/100, Train Loss: 0.0156, Train RMSE: 0.1196, Train R2: 0.9671, Test Loss: 0.0195, Test RMSE: 0.1398, Test R2: 0.9414
+Fold 5, Epoch 100/100, Train Loss: 0.0121, Train RMSE: 0.1067, Train R2: 0.9731, Test Loss: 0.0283, Test RMSE: 0.1683, Test R2: 0.9375
+Fold 6, Epoch 100/100, Train Loss: 0.0142, Train RMSE: 0.1093, Train R2: 0.9708, Test Loss: 0.0447, Test RMSE: 0.2113, Test R2: 0.9240
+Fold 7, Epoch 100/100, Train Loss: 0.0143, Train RMSE: 0.1078, Train R2: 0.9734, Test Loss: 0.0184, Test RMSE: 0.1358, Test R2: 0.9458
+Fold 8, Epoch 100/100, Train Loss: 0.0141, Train RMSE: 0.1086, Train R2: 0.9732, Test Loss: 0.0163, Test RMSE: 0.1275, Test R2: 0.9452
+Fold 9, Epoch 100/100, Train Loss: 0.0125, Train RMSE: 0.0990, Train R2: 0.9771, Test Loss: 0.0717, Test RMSE: 0.2678, Test R2: 0.8263
+Fold 10, Epoch 100/100, Train Loss: 0.0117, Train RMSE: 0.1050, Train R2: 0.9740, Test Loss: 0.0399, Test RMSE: 0.1999, Test R2: 0.9118
+
+
+
+
+
+
+=== Final Epoch (Epoch 100) Average and Std over 10 folds ===
+Train Loss: 0.0142 ± 0.0016
+Test  Loss: 0.0321 ± 0.0158
+Train RMSE: 0.1089 ± 0.0052
+Test  RMSE: 0.1746 ± 0.0401
+Train R2:   0.9722 ± 0.0026
+Test  R2:   0.9238 ± 0.0346
